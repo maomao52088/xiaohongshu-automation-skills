@@ -145,8 +145,24 @@ A：爆款规律基于路标笔记实测数据（CTR 22.6%，完播率36%）。
 
 ## 获取方式
 
-- GitHub：[待补充]
+- GitHub：https://github.com/maomao52088/xiaohongshu-automation-skills
 - 本地路径：`~/.hermes/skills/xiaohongshu-*`
+
+## GitHub发布流程
+
+```bash
+# 1. 初始化仓库
+cd /path/to/skills
+git init
+git add -A
+git commit -m "Initial commit"
+
+# 2. 创建GitHub仓库后推送
+git remote add origin https://github.com/用户名/仓库名.git
+git branch -M main
+git push -u origin main
+
+```
 
 ---
 
