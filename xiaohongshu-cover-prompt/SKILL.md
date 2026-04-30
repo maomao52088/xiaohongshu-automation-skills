@@ -159,7 +159,7 @@ warm earth tones, lifestyle photography, 4:5 aspect ratio
 
 ---
 
-🦞 大龙猫制作
+大龙猫制作
 ```
 
 ---
@@ -174,4 +174,4 @@ warm earth tones, lifestyle photography, 4:5 aspect ratio
 
 ---
 
-🦞 大龙猫制作
+大龙猫制作

@@ -82,4 +82,4 @@ Xiaohongshu is China's fastest-growing content platform, but creating high-CTR c
 
 ---
 
-🦞 Made by 大龙猫 (Big Totoro) · 2026.04.15
+Made by 大龙猫 (Big Totoro) · 2026.04.15
